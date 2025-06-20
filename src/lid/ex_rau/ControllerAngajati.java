@@ -3,7 +3,7 @@ package lid.ex_rau;
 class ControllerAngajati {
     private ServiciuAngajati serviciuAngajati;
     
-    // Încălcă DIP prin dependența de serviciu concret
+
     public ControllerAngajati() {
         this.serviciuAngajati = new ServiciuAngajati();
     }

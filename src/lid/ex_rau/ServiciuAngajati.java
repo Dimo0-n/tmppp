@@ -11,7 +11,6 @@ class ServiciuAngajati {
         angajat.curataMagazin();
     }
     
-    // Încălcă SRP prin gestionarea multiplelor preocupări de raportare
     public void genereazaRapoarte(Angajat angajat) {
         System.out.println("\nGenerarea rapoartelor:");
         if (angajat instanceof Casier) {
