@@ -1,0 +1,5 @@
+Conectare între o aplicație nouă și un API vechi.
+
+Transformare de date între sisteme cu modele diferite (DTO ↔ Entity).
+
+Integrare de plăți cu gateway-uri diferite (Stripe ↔ PayPal).

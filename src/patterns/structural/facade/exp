@@ -1,0 +1,5 @@
+Un singur punct de acces la subsisteme (ex: subsistem media player).
+
+Wrapper peste API-uri externe (ex: StripeFacade, GoogleMapsFacade).
+
+Interfață simplificată pentru microservicii interne.

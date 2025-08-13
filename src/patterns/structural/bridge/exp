@@ -1,0 +1,5 @@
+Separarea logica UI (View) de tema (Light, Dark).
+
+Sisteme de mesagerie: Protocol (Email, SMS) + Format (HTML, Plain).
+
+Afișare fișiere: PDFViewer, WordViewer, etc., decuplat de fișier.

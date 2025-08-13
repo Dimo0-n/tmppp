@@ -1,0 +1,5 @@
+Gestionare evenimente între UI Components (TextField ↔ Button).
+
+Chat Room: userii comunică printr-un obiect central.
+
+Control avioane pe aeroport (mediator = turnul de control).

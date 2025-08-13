@@ -1,0 +1,5 @@
+Lazy loading pentru obiecte mari (imagine, video).
+
+Control acces la metode sensibile (ex: AdminProxy).
+
+Remote proxy pentru acces la obiecte din rețea.

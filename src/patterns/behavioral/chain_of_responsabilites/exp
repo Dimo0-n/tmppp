@@ -1,0 +1,5 @@
+Validări de formular (email, parolă, telefon).
+
+Sisteme de logare cu niveluri (INFO → WARN → ERROR).
+
+Pipeline-uri de procesare request-uri HTTP.

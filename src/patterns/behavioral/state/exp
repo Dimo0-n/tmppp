@@ -1,0 +1,5 @@
+ATM cu stări: fără card, cu card, blocat.
+
+Jocuri: stări personaj – atac, apărare, moarte.
+
+UI: buton activ/inactiv în funcție de context.

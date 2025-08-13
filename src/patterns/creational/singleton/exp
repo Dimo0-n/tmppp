@@ -1,0 +1,5 @@
+O singură instanță care gestionează conexiunile DB.
+
+Centralizează și gestionează configurațiile aplicației.
+
+User Session Manager
